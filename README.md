@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReportSaathi (रिपोर्ट साथी)
 ### *Simplifying Medical Laboratory Reports into Everyday Language for Educational Empowerment*
 
@@ -40,3 +41,6 @@ npm run dev
 ```
 
 Open your browser at `http://localhost:5173`.
+=======
+# reportsaathi_workshop_project_
+>>>>>>> 5f2932104ab6716a714f634c00a67ca89f02a961
